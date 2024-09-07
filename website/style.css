@@ -1,0 +1,25 @@
+ body{
+    background-color:pink;
+ }
+
+ .box{
+    font-size: 1.2em;
+    background-color: hsl(180, 100%, 78%);
+    width: 300px;
+    border: 5px solid;
+    box-shadow: 3px 3px 5px;
+    margin: auto;
+}
+
+ .title{
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(255, 147, 219), -3px -3px 3px hsl(60, 100%, 50%);
+ }
+
+ /* #members{
+    margin: auto;
+ }
+
+ #dates{
+    margin: auto;
+ } */
